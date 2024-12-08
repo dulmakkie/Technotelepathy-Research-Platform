@@ -156,3 +156,4 @@ clarinet test --coverage
 MIT Open Source License with Ethical Neurotechnology Provisions
 
 **Fundamental Disclaimer**: This platform represents experimental research into brain-to-brain communication technologies. Results are theoretical and do not guarantee successful neural information transfer.
+
